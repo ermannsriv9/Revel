@@ -49,7 +49,7 @@ Follow these steps to generate an API key for services like **BigQuery** and **G
 
 ---
 
-# 🧰 Git Setup & GitHub Integration
+#  Git Setup & GitHub Integration
 
 Steps to install Git, configure it, set up GitHub, and push code to a repository.
 
