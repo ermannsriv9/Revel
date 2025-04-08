@@ -1,8 +1,8 @@
-# 🔐 What is an API Key?
+# What is an API Key?
 
 An **API key** is a unique identifier used to authenticate requests made to an API (Application Programming Interface). It's like a password or token that grants access to a particular service or resource.
 
-### 🔑 Key Uses of an API Key:
+### Key Uses of an API Key:
 
 1. **Authentication and Authorization:**  
    The API key ensures that the user making the request has the necessary permissions to access the service. It helps authenticate the client or user making requests to the API, ensuring that only authorized users can interact with the service.
@@ -12,7 +12,7 @@ An **API key** is a unique identifier used to authenticate requests made to an A
 
 ---
 
-# 🚀 How to Generate API Keys for BigQuery & Gemini in GCP
+#  How to Generate API Keys for BigQuery & Gemini in GCP
 
 Follow these steps to generate an API key for services like **BigQuery** and **Gemini** in Google Cloud Platform:
 
